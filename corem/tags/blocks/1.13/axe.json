@@ -1,0 +1,54 @@
+{
+	"values": [		
+		"minecraft:note_block",
+		"minecraft:jukebox",
+		
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"minecraft:crafting_table",
+		"minecraft:ladder",
+		
+		"minecraft:brown_mushroom_block",
+		"minecraft:red_mushroom_block",
+		"minecraft:mushroom_stem",
+		
+		"minecraft:pumpkin",
+		"minecraft:carved_pumpkin",
+		"minecraft:jack_o_lantern",
+		"minecraft:melon",
+		
+		"#minecraft:logs",
+		
+		"#minecraft:wooden_buttons",
+		"#minecraft:wooden_doors",
+		"#minecraft:wooden_pressure_plates",
+		"#minecraft:wooden_slabs",
+		"#minecraft:wooden_stairs",
+		"#minecraft:wooden_trapdoors",
+		
+		"minecraft:oak_fence",
+		"minecraft:spruce_fence",
+		"minecraft:birch_fence",
+		"minecraft:jungle_fence",
+		"minecraft:acacia_fence",
+		"minecraft:dark_oak_fence",
+		
+		"minecraft:oak_fence_gate",
+		"minecraft:spruce_fence_gate",
+		"minecraft:birch_fence_gate",
+		"minecraft:jungle_fence_gate",
+		"minecraft:acacia_fence_gate",
+		"minecraft:dark_oak_fence_gate",
+		
+		"minecraft:sign",
+		"minecraft:wall_sign",
+		
+		"#corem:wooden_planks",
+		"minecraft:crimson_planks",
+		"minecraft:warped_planks",
+		
+		"#corem:1.13/beds",
+		
+		"#minecraft:banners"
+	]
+}

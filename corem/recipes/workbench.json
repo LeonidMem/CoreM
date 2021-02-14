@@ -1,0 +1,26 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CAF",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_block"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_block",
+        "count": 1
+    }
+}
