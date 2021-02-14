@@ -1,6 +1,0 @@
-effect give @e[type=bat,name=MFurnace] invisibility 15 0 true
-execute as @e[type=bat,name=MFurnace] at @s run setblock ~ ~ ~ minecraft:dropper[facing=down]{CustomName:'{"text":"Blast Furnace","color":"dark_red"}'}
-execute as @e[type=bat,name=MFurnace] at @s run summon minecraft:area_effect_cloud ~ ~ ~ {CustomName:'{"text":"MBlastFurnace"}',Duration:2147483647,Radius:0.0f}
-execute as @e[type=bat,name=MFurnace] at @s if block ~ ~ ~ minecraft:dropper[facing=down] run kill @s
-execute as @e[type=area_effect_cloud,name=MBlastFurnace] at @s if block ~ ~ ~ air run data merge entity @e[type=item,distance=..1,limit=1,nbt={Item:{id:"minecraft:dropper",Count:1b}}] {Item:{id:"minecraft:bat_spawn_egg",Count:1b,tag:{EntityTag:{id:"minecraft:bat",CustomName:"\"MFurnace\"",CustomNameVisible:0,NoAI:1b,Silent:1,Invulnerable:1,Health:1},display:{Name:"[{\"text\":\"Blast furnace\",\"italic\":false,\"color\":\"gold\"}]"}}}}
-execute as @e[type=area_effect_cloud,name=MBlastFurnace] at @s if block ~ ~ ~ air run kill @s
