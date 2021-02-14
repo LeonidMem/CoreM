@@ -24,6 +24,6 @@
 ============
 Документация: [GitHub Wiki](https://github.com/LeonidMem/CoreM/wiki)
 
-Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/leonidmem)
+Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
 **Разработка: LeonidM и BigSTy**
