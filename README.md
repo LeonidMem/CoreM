@@ -23,6 +23,7 @@
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/leonidmem)
 
 **Разработка: LeonidM**
+
 **Улучшение производительности и доработка: BigSTy**
 
 Документация
