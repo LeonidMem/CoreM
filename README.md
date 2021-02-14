@@ -20,7 +20,9 @@
 	- **#corem:glazed_terracotta** - все блоки *глазурованной керамики*
 	- **#corem:shulker_boxes** - все *шалкеровые ящики*
 
-[Документация](https://github.com/LeonidMem/CoreM/wiki)
+Информация
+============
+Документация: [GitHub Wiki](https://github.com/LeonidMem/CoreM/wiki)
 
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/leonidmem)
 
