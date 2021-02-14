@@ -14,7 +14,7 @@
 	- **#corem:air** - все виды *воздуха*
 	- **#corem:concrere** - все блоки *бетона*
 	- **#corem:concrere_powder** - все блоки *сухого бетона*
-	- **#corem:dead_coral_blocks ** - все *блоки мёртвых кораллов*
+	- **#corem:dead_coral_blocks** - все *блоки мёртвых кораллов*
 	- **#corem:dead_corals** - все блоки *мёртвых кораллов*
 	- **#corem:terracotta** - все блоки *терракоты*
 	- **#corem:glazed_terracotta** - все блоки *глазурованной керамики*
