@@ -21,6 +21,7 @@
 	- **#corem:shulker_boxes** - все *шалкеровые ящики*
 
 [Документация](https://github.com/LeonidMem/CoreM/wiki)
+
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/leonidmem)
 
 **Разработка: LeonidM и BigSTy**
