@@ -1,1 +1,0 @@
-scoreboard players set timer corem.functions 3
