@@ -1,0 +1,17 @@
+{
+	"values": [
+		"#corem:leaves",
+		
+		"minecraft:sponge",
+		"minecraft:wet_sponge",
+
+		"minecraft:hay_block",
+		"minecraft:target",
+
+		"minecraft:dried_kelp_block",
+
+		"minecraft:shroomlight",
+		"minecraft:nether_wart_block",
+		"minecraft:warped_wart_block"
+	]
+}
