@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Advancement"
+        },
+        "description": {
+            "text": "Description"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "Bedrock": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "corem:workbench"
+            }
+        }
+    },
+    "rewards": {
+        "function": "corem:custom_wb/workbench"
+    }
+}
