@@ -29,3 +29,4 @@
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
 **Разработка: LeonidM и BigSTy**
+**Каналы на YouTube:** [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/channel/UCLKYHXUnBhi_6a2qpasA9CQ)
