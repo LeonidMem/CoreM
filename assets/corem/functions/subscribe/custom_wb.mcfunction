@@ -1,0 +1,1 @@
+scoreboard players set workbench corem.functions 1
