@@ -26,6 +26,9 @@ scoreboard players set 9 corem.const 9
 scoreboard players set 10 corem.const 10
 scoreboard players set 100 corem.const 100
 
+function corem:unsubscribe/custom_wb
+function corem:unsubscribe/timer
+
 function faunapm:check
 function steelupdatem:check
 function potionspm:check
