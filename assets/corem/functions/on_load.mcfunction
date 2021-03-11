@@ -57,5 +57,3 @@ scoreboard players reset corem.check corem.version
 scoreboard players reset 1 corem.version
 
 tellraw @a [{"text":"More information here: ","color":"gold"},{"text":"*click*","color":"red","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/customization/corem"}}]
-
-# Комментарий
