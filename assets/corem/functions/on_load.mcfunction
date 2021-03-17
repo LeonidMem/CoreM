@@ -29,6 +29,7 @@ scoreboard players set 100 corem.const 100
 function corem:unsubscribe/custom_wb
 scoreboard players reset * corem.timer
 function corem:unsubscribe/timer
+function corem:unsubscribe/events/interactblock
 
 function faunapm:check
 function steelupdatem:check

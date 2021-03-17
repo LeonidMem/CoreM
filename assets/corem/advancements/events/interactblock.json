@@ -1,0 +1,11 @@
+{
+    "parent": "corem:root",
+    "criteria": {
+      "InteractBlock": {
+        "trigger": "minecraft:item_used_on_block"
+      }
+    },
+    "rewards": {
+      "function": "corem:events/interactblock"
+    }
+  }

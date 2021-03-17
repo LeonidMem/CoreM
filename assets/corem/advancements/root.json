@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Advancement"
+            "text": "CoreM [2.0]"
         },
         "description": {
-            "text": "Description"
+            "text": "Thanks for using it!"
         },
         "icon": {
-            "item": "minecraft:stone"
+            "item": "minecraft:structure_block"
         },
         "frame": "task",
         "show_toast": false,
@@ -16,14 +16,8 @@
         "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
     },
     "criteria": {
-        "Bedrock": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "corem:workbench"
-            }
+        "Imposible": {
+            "trigger": "minecraft:imposible"
         }
-    },
-    "rewards": {
-        "function": "corem:custom_wb/workbench"
     }
 }

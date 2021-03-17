@@ -1,0 +1,1 @@
+scoreboard players set event.interactblock corem.functions 1

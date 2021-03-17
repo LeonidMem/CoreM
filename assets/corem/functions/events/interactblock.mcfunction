@@ -1,0 +1,1 @@
+execute if score event.interactblock corem.functions matches 1 as @s run function corem:events/start/interactblock

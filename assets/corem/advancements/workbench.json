@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "Bedrock": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "corem:workbench"
+            }
+        }
+    },
+    "rewards": {
+        "function": "corem:custom_wb/workbench"
+    },
+    "parent": "corem:root"
+}
