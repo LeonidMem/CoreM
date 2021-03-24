@@ -1,6 +1,6 @@
 execute as @e[tag=corem.raycast.mark,limit=1] if score @s corem.raycast < corem.distance corem.raycast run scoreboard players add @s corem.raycast 1
 
-execute if score @e[tag=corem.raycast.mark,limit=1] corem.raycast < corem.distance corem.raycast unless block ~ ~ ~ #corem:air run summon minecraft:area_effect_cloud ~ ~ ~ {Duration:2147483647,Radius:0.0f,Tags:["corem.raycast.point"]}
+execute if score @e[tag=corem.raycast.mark,limit=1] corem.raycast < corem.distance corem.raycast unless block ~ ~ ~ #corem:air run summon minecraft:area_effect_cloud ~ ~ ~ {Duration:1,Radius:0.0f,Tags:["corem.raycast.point"]}
 
 execute as @e[tag=corem.raycast.mark,limit=1] if score @s corem.raycast < corem.distance corem.raycast unless block ~ ~ ~ #corem:air run scoreboard players set @s corem.raycast 10001
 

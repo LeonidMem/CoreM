@@ -6,6 +6,6 @@
       }
     },
     "rewards": {
-      "function": "corem:events/interactblock"
+      "function": "corem:events/player/interactblock"
     }
   }

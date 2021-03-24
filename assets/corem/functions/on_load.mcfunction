@@ -9,8 +9,9 @@ scoreboard objectives add corem.workbench dummy {"text":"CoreM.Workbench","color
 scoreboard objectives add corem.count dummy {"text":"CoreM.Count","color":"red"}
 scoreboard objectives add corem.timer dummy {"text":"CoreM.Timer","color":"red"}
 scoreboard objectives add corem.functions dummy {"text":"CoreM.Functions","color":"red"}
+scoreboard objectives add corem.events dummy {"text":"CoreM.Events","color":"red"}
 
-scoreboard players set corem.version corem.version 10300
+scoreboard players set corem.version corem.version 20000
 scoreboard players set corem.check corem.version 0
 scoreboard players set 1 corem.version 1
 
@@ -26,10 +27,11 @@ scoreboard players set 9 corem.const 9
 scoreboard players set 10 corem.const 10
 scoreboard players set 100 corem.const 100
 
-function corem:unsubscribe/custom_wb
+# function corem:unsubscribe/custom_wb
 scoreboard players reset * corem.timer
-function corem:unsubscribe/timer
-function corem:unsubscribe/events/interactblock
+# function corem:unsubscribe/timer
+# function corem:unsubscribe/events/player/interactblock
+scoreboard players reset * corem.functions
 
 function faunapm:check
 function steelupdatem:check
@@ -38,13 +40,14 @@ function optimizationm:check
 function villagerspm:check
 
 scoreboard players set corem.mc.version corem.version 0
+scoreboard players set corem.plugin corem.version 0
 
 function corem:mc_version/1.16
 function corem:mc_version/1.15
 function corem:mc_version/1.14
 function corem:mc_version/1.13
 
-tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (1.3)","color":"red"},{"text":".","color":"gold"}]
+tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (2.0)","color":"red"},{"text":".","color":"gold"}]
 
 execute if score corem.check corem.version >= 1 corem.version run tellraw @a ["",{"text":"At least:","color":"gold"},{"text":"\n"}]
 
@@ -57,4 +60,4 @@ function villagerspm:version
 scoreboard players reset corem.check corem.version
 scoreboard players reset 1 corem.version
 
-tellraw @a [{"text":"More information here: ","color":"gold"},{"text":"*click*","color":"red","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/customization/corem"}}]
+tellraw @a [{"text":"More information here: ","color":"gold"},{"text":"*click*","color":"red","clickEvent":{"action":"open_url","value":"https://github.com/LeonidMem/CoreM"}}]

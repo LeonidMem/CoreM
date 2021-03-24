@@ -1,0 +1,1 @@
+scoreboard players set event.join corem.functions 1
