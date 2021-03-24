@@ -1,1 +1,1 @@
-scoreboard players set event.quit corem.functions 1
+scoreboard players set event.player.quit corem.functions 1

@@ -1,1 +1,1 @@
-scoreboard players set event.interactblock corem.functions 1
+scoreboard players set event.player.interactblock corem.functions 1

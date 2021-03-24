@@ -1,0 +1,1 @@
+scoreboard players set event.entity.spawn corem.functions 1

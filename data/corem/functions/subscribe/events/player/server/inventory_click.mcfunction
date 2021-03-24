@@ -1,1 +1,1 @@
-scoreboard players set event.inventoryclick corem.functions 1
+scoreboard players set event.player.inventoryclick corem.functions 1

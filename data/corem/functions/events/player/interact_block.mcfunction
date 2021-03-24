@@ -1,1 +1,1 @@
-execute if score corem.plugin corem.versions matches 0 if score event.interactblock corem.functions matches 1 as @s run function corem:events/start/interact_block
+execute if score corem.plugin corem.versions matches 0 if score event.player.interactblock corem.functions matches 1 as @s run function corem:events/start/interact_block
