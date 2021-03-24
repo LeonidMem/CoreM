@@ -31,7 +31,7 @@ scoreboard players set 100 corem.const 100
 scoreboard players reset * corem.timer
 # function corem:unsubscribe/timer
 # function corem:unsubscribe/events/player/interactblock
-scoreboard players reset * corem.functions
+# scoreboard players reset * corem.functions
 
 function faunapm:check
 function steelupdatem:check
@@ -40,7 +40,6 @@ function optimizationm:check
 function villagerspm:check
 
 scoreboard players set corem.mc.version corem.version 0
-scoreboard players set corem.plugin corem.version 0
 
 function corem:mc_version/1.16
 function corem:mc_version/1.15
