@@ -10,6 +10,7 @@ scoreboard objectives add corem.count dummy {"text":"CoreM.Count","color":"red"}
 scoreboard objectives add corem.timer dummy {"text":"CoreM.Timer","color":"red"}
 scoreboard objectives add corem.functions dummy {"text":"CoreM.Functions","color":"red"}
 scoreboard objectives add corem.events dummy {"text":"CoreM.Events","color":"red"}
+scoreboard objectives add corem.arguments dummy {"text":"CoreM.Arguments","color":"red"}
 
 scoreboard players set corem.version corem.version 20000
 scoreboard players set corem.check corem.version 0
