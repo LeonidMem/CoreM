@@ -1,12 +1,52 @@
-Описание CoreM
+\[EN\] Description of CoreM
+===========================
+**CoreM** is **core for datapacks in Minecraft**. There are some features of Corem: it **supports custom workbench**, so you need create only recipes if you want, and **connects with Spigot**, so you can **optimize** your datapack **by using events** or **use server functions** such as kick, ban player or damage entity, etc.
+
+**CoreM has:**
+- **Custom workbench**
+- **Events**
+- **Connection with Spigot**
+- **Timers**
+- Optimized **random**
+- **Math functions**
+- **Raycast**
+- A lot of tags:
+	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken only with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/axe** - **all blocks**, which **can be broken only with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/shovel** - **all blocks**, which **can be broken only with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/hoe** - **all blocks**, which **can be broken only with hoe** at 1.16 *(only 1.16)*
+	- **#corem:air** - all blocks of *air*
+	- **#corem:concrete** - all blocks of *concrete*
+	- **#corem:concrete_powder** - all blocks of *powder concrete*
+	- **#corem:dead_coral_blocks** - all blocks of *dead coral blocks*
+	- **#corem:dead_corals** - all blocks of *dead corals*
+	- **#corem:terracotta** - all blocks of *terracotta*
+	- **#corem:glazed_terracotta** - all blocks of *glazed terracotta*
+	- **#corem:shulker_boxes** - all blocks of *shulker boxes*
+	- **#corem:leaves** - all blocks of *leaves*
+
+Information
+============
+Documentation: [GitHub Wiki](https://github.com/LeonidMem/CoreM/wiki)
+
+Support developers: [DonationAlerts](https://www.donationalerts.com/r/corem)
+
+**Developed by [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)**
+
+
+
+\[RU\] Описание CoreM
 ==============
-**CoreM** - это **ядро для Minecraft датапаков**. Его отличительной особенностью от других является **поддержка кастомного верстака**, который уже реализован, что позволяет разработчикам только лишь добавить крафты, чтобы всё работало.
+**CoreM** - это **ядро для Minecraft датапаков**. Его отличительной особенностью от других является **поддержка кастомного верстака**, который уже реализован, что позволяет разработчикам только лишь добавить крафты, чтобы всё работало, а также **работа со Spigot**, что может многократно оптимизировать датапак.
 
 **На данный момент в CoreM есть:**
 - **Кастомный верстак**
+- **События**
+- **Связь со Spigot**
+- **Таймеры**
 - Оптимизированный **рандом**
 - Удобные **математические функции**
-- **Raycast** (луч взгляда игрока)
+- **Raycast** (луч взгляда сущности)
 - Огромное количество тэгов:
 	- **#corem:1.16/pickaxe** - список **всех блоков**, которые могут быть разрушены **быстрее киркой** на версии 1.16 *(можно использовать любую версию от 1.15 до 1.16)*
 	- **#corem:1.16/axe** - список **всех блоков**, которые могут быть разрушены **быстрее топором** на версии 1.16 *(можно использовать любую версию от 1.15 до 1.16)*
