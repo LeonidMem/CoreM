@@ -1,4 +1,4 @@
-**Choose language:**
+# **Choose language:**
 - [EN](https://github.com/LeonidMem/CoreM#en-description-of-corem)
 - [RU](https://github.com/LeonidMem/CoreM#ru-описание-corem)
 
