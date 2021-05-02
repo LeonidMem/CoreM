@@ -4,7 +4,7 @@
 
 \[EN\] Description of CoreM
 ===========================
-**CoreM** is **core for datapacks in Minecraft**. There are some features of Corem: it **supports custom workbench**, so you need create only recipes if you want, and **connects with Spigot**, so you can **optimize** your datapack **by using events** or **use server functions** such as kick, ban player or damage entity, etc.
+**CoreM** is **core for datapacks in Minecraft**. There are some features of Corem: it **supports custom workbench**, so you need to create only recipes if you want, and **connects with Spigot**, so you can **optimize** your datapack **by using events** or **use server functions** such as kick, ban player or damage entity, etc.
 
 **CoreM has:**
 - **Custom workbench**
