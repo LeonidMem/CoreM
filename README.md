@@ -15,10 +15,10 @@
 - **Math functions**
 - **Raycast**
 - A lot of tags:
-	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken only with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/axe** - **all blocks**, which **can be broken only with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/shovel** - **all blocks**, which **can be broken only with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/hoe** - **all blocks**, which **can be broken only with hoe** at 1.16 *(only 1.16)*
+	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken faster with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/axe** - **all blocks**, which **can be broken faster with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/shovel** - **all blocks**, which **can be broken faster with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
 	- **#corem:air** - all blocks of *air*
 	- **#corem:concrete** - all blocks of *concrete*
 	- **#corem:concrete_powder** - all blocks of *powder concrete*
