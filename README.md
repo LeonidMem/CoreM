@@ -1,4 +1,4 @@
-# Join [CoreM Discord server](https://discord.gg/pvdD3Kh6et), where you can find help or ask a question.
+# Join [CoreM Discord server](https://discord.gg/pvdD3Kh6et), where you can ask a question or for help.
 
 ## !!! \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM.
 ## !!! \[RU\] Если Вы собираетесь создать датапак на основе CoreM, то дайте мне об этом знать, чтобы я добавил это в список датапаков, которые работают с CoreM.
