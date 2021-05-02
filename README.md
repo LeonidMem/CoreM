@@ -38,7 +38,7 @@ Documentation: [GitHub Wiki](https://github.com/LeonidMem/CoreM/wiki)
 
 Support developers: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
-**Developed by [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)**
+**Developed by [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)** *(improved workbench)*
 
 
 
@@ -75,4 +75,4 @@ Support developers: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
-**Разработка: [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)**
+**Разработка: [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)** *(улучшил верстак)*
