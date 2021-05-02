@@ -1,5 +1,7 @@
-## !!! \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM. Discord: LeonidM#3682
-## !!! \[RU\] Если Вы собираетесь создать датапак на основе CoreM, то дайте мне об этом знать, чтобы я добавил это в список датапаков, которые работают с CoreM. Discord: LeonidM#3682
+# Join [CoreM Discord server](https://discord.gg/pvdD3Kh6et)
+
+## !!! \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM.
+## !!! \[RU\] Если Вы собираетесь создать датапак на основе CoreM, то дайте мне об этом знать, чтобы я добавил это в список датапаков, которые работают с CoreM.
 
 # **Choose language:**
 - [EN](https://github.com/LeonidMem/CoreM#en-description-of-corem)
