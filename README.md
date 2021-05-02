@@ -1,3 +1,6 @@
+# \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM. 
+# \[RU\] Если Вы собираетесь создать датапак на основе CoreM, то дайте мне об этом знать, чтобы я добавил это в список датапаков, которые работают с CoreM.
+
 # **Choose language:**
 - [EN](https://github.com/LeonidMem/CoreM#en-description-of-corem)
 - [RU](https://github.com/LeonidMem/CoreM#ru-описание-corem)
