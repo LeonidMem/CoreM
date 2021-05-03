@@ -86,7 +86,7 @@ while True:
     output = f'\n\n\nexecute if block ~ ~ ~ barrel{barrel_items} run tag @s add {tag}.check\n\n'
     output += 'execute if entity @s[tag=' + tag + '.check,scores={corem.workbench=0}] run data modify block ~ ~ ~ Items[{Slot:15b}] set value ' + output_item.strWithAmount() + '\n'
     output += f'execute if entity @s[tag={tag}.check] run scoreboard players set @s corem.workbench 2\n\n'
-    output += 'execute if entity @s[tag=' + tag + '.check] if data block ~ ~ ~ {Slot:15b,id:"minecraft:barrier"} run tag @s add ' + tag + '.crafted\n\n'
+    output += 'execute if entity @s[tag=' + tag + '.check] if data block ~ ~ ~ Items[{Slot:15b,id:"minecraft:barrier"}] run tag @s add ' + tag + '.crafted\n\n'
     output += 'execute if entity @s[tag=' + tag + '.crafted] run clear @a[distance=..6] ' + output_item.id + '{' + output_item.tag + '}\n'
     output += 'execute if entity @s[tag=' + tag + '.crafted] run give @p ' + output_item.id + ' ' + output_item.amount
     if output_item.tag != 'Tags:[corem.clear]':
