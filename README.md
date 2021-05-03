@@ -1,10 +1,15 @@
+# Join [CoreM Discord server](https://discord.gg/pvdD3Kh6et), where you can ask a question or for help.
+
+## !!! \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM.
+## !!! \[RU\] Если Вы собираетесь создать датапак на основе CoreM, то дайте мне об этом знать, чтобы я добавил это в список датапаков, которые работают с CoreM.
+
 # **Choose language:**
 - [EN](https://github.com/LeonidMem/CoreM#en-description-of-corem)
 - [RU](https://github.com/LeonidMem/CoreM#ru-описание-corem)
 
 \[EN\] Description of CoreM
 ===========================
-**CoreM** is **core for datapacks in Minecraft**. There are some features of Corem: it **supports custom workbench**, so you need create only recipes if you want, and **connects with Spigot**, so you can **optimize** your datapack **by using events** or **use server functions** such as kick, ban player or damage entity, etc.
+**CoreM** is **core for datapacks in Minecraft**. There are some features of Corem: it **supports custom workbench**, so you need to create only recipes if you want, and **connects with Spigot**, so you can **optimize** your datapack **by using events** or **use server functions** such as kick, ban player or damage entity, etc.
 
 **CoreM has:**
 - **Custom workbench**
@@ -15,10 +20,10 @@
 - **Math functions**
 - **Raycast**
 - A lot of tags:
-	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken only with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/axe** - **all blocks**, which **can be broken only with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/shovel** - **all blocks**, which **can be broken only with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/hoe** - **all blocks**, which **can be broken only with hoe** at 1.16 *(only 1.16)*
+	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken faster with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/axe** - **all blocks**, which **can be broken faster with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/shovel** - **all blocks**, which **can be broken faster with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.16/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
 	- **#corem:air** - all blocks of *air*
 	- **#corem:concrete** - all blocks of *concrete*
 	- **#corem:concrete_powder** - all blocks of *powder concrete*
@@ -35,7 +40,7 @@ Documentation: [GitHub Wiki](https://github.com/LeonidMem/CoreM/wiki)
 
 Support developers: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
-**Developed by [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)**
+**Developed by [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)** *(improved workbench)*
 
 
 
@@ -72,4 +77,4 @@ Support developers: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
 Поддержать разработчиков: [DonationAlerts](https://www.donationalerts.com/r/corem)
 
-**Разработка: [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)**
+**Разработка: [LeonidM](https://youtube.com/leonidm) и [BigSTy](https://www.youtube.com/bigsty)** *(улучшил верстак)*
