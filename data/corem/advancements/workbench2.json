@@ -3,7 +3,7 @@
         "Bedrock": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "corem:workbench"
+                "recipe": "corem:workbench2"
             }
         }
     },
