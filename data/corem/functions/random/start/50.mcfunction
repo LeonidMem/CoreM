@@ -6,4 +6,7 @@ execute as @e[type=area_effect_cloud,tag=corem.random.50.help,limit=1] run funct
 
 scoreboard players operation @s corem.random += @e[type=area_effect_cloud,tag=corem.random.50.help,limit=1] corem.random
 
+
+kill @e[type=area_effect_cloud,tag=corem.random.50.help,limit=1]
+
 tag @s remove corem.random

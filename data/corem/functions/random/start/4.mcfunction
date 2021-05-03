@@ -1,7 +1,7 @@
-summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom1"}',Duration:2147483647,Radius:0.0f,Tags:["CoreMRandom"]}
-summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom2"}',Duration:2147483647,Radius:0.0f,Tags:["CoreMRandom"]}
-summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom3"}',Duration:2147483647,Radius:0.0f,Tags:["CoreMRandom"]}
-summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom4"}',Duration:2147483647,Radius:0.0f,Tags:["CoreMRandom"]}
+summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom1"}',Duration:1,Radius:0.0f,Tags:["CoreMRandom"]}
+summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom2"}',Duration:1,Radius:0.0f,Tags:["CoreMRandom"]}
+summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom3"}',Duration:1,Radius:0.0f,Tags:["CoreMRandom"]}
+summon minecraft:area_effect_cloud ~ ~5 ~ {CustomName:'{"text":"CoreMRandom4"}',Duration:1,Radius:0.0f,Tags:["CoreMRandom"]}
 
 tp @e[sort=random,tag=CoreMRandom,limit=1,distance=5] @s
 
