@@ -39,6 +39,13 @@ class Item:
         out += '}'
         return out
 
+    def strWithAmount(self):
+        out = '{Slot:' + str(self.slot_id) + 'b,id:"minecraft:' + self.id + '"'
+        if self.tag != '-':
+            out += ',tag:{' + self.tag + '}'
+        out += ',Count:' + self.amount + '}'
+        return out
+
 
 while True:
     save = False
@@ -77,7 +84,7 @@ while True:
         barrel_items += ' unless data block ~ ~ ~ Items[{Slot:' + str(slot_id) + 'b}]'
 
     output = f'\n\n\nexecute if block ~ ~ ~ barrel{barrel_items} run tag @s add {tag}.check\n\n'
-    output += 'execute if entity @s[tag=' + tag + '.check,scores={corem.workbench=0}] run data modify block ~ ~ ~ Items[{Slot:15b}] set value ' + str(output_item) + '\n'
+    output += 'execute if entity @s[tag=' + tag + '.check,scores={corem.workbench=0}] run data modify block ~ ~ ~ Items[{Slot:15b}] set value ' + output_item.strWithAmount() + '\n'
     output += f'execute if entity @s[tag={tag}.check] run scoreboard players set @s corem.workbench 2\n\n'
     output += 'execute if entity @s[tag=' + tag + '.check] if data block ~ ~ ~ {Slot:15b,id:"minecraft:barrier"} run tag @s add ' + tag + '.crafted\n\n'
     output += 'execute if entity @s[tag=' + tag + '.crafted] run clear @a[distance=..6] ' + output_item.id + '{' + output_item.tag + '}\n'
