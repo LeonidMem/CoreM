@@ -64,7 +64,8 @@ while True:
             empty.append(2 + i % 3 + i // 3 * 9)
 
     output_item = Item.getBuilder(0).setID(input(f"Type ID of output item (without 'minecraft:'): ")).setTag(input("Type tag of output item (without 'tag:{}') (don't forget about 'Tags:[corem.clear]'): ")).setAmount(input(f"Type amount of output item: ")).build()
-
+    output_item.slot_id = 15
+    
     barrel_items = '{Items:['
 
     for item in items:
