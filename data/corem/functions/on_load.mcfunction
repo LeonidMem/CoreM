@@ -27,7 +27,7 @@ scoreboard players set 8 corem.const 8
 scoreboard players set 9 corem.const 9
 scoreboard players set 10 corem.const 10
 scoreboard players set 100 corem.const 100
-scoreboard players set 195225118 corem.const 195225118
+scoreboard players set 17568 corem.const 17568
 
 # function corem:unsubscribe/custom_wb
 scoreboard players reset * corem.timer
