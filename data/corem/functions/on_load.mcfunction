@@ -1,4 +1,4 @@
-scoreboard objectives add corem.bedrock minecraft.crafted:minecraft.bedrock {"text":"CoreM.Bedrock","color":"red"}
+# scoreboard objectives add corem.bedrock minecraft.crafted:minecraft.bedrock {"text":"CoreM.Bedrock","color":"red"}
 scoreboard objectives add corem.wbcrafted minecraft.crafted:minecraft.structure_block {"text":"CoreM.WBCrafted","color":"red"}
 scoreboard objectives add corem.random dummy {"text":"CoreM.Random","color":"red"}
 scoreboard objectives add corem.math dummy {"text":"CoreM.Math","color":"red"}
@@ -12,7 +12,7 @@ scoreboard objectives add corem.functions dummy {"text":"CoreM.Functions","color
 scoreboard objectives add corem.events dummy {"text":"CoreM.Events","color":"red"}
 scoreboard objectives add corem.arguments dummy {"text":"CoreM.Arguments","color":"red"}
 
-scoreboard players set corem.version corem.version 20000
+scoreboard players set corem.version corem.version 20001
 scoreboard players set corem.check corem.version 0
 scoreboard players set 1 corem.version 1
 
@@ -27,6 +27,7 @@ scoreboard players set 8 corem.const 8
 scoreboard players set 9 corem.const 9
 scoreboard players set 10 corem.const 10
 scoreboard players set 100 corem.const 100
+scoreboard players set 195225118 corem.const 195225118
 
 # function corem:unsubscribe/custom_wb
 scoreboard players reset * corem.timer
@@ -47,7 +48,7 @@ function corem:mc_version/1.15
 function corem:mc_version/1.14
 function corem:mc_version/1.13
 
-tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (2.0)","color":"red"},{"text":".","color":"gold"}]
+tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (2.0.1)","color":"red"},{"text":".","color":"gold"}]
 
 execute if score corem.check corem.version >= 1 corem.version run tellraw @a ["",{"text":"At least:","color":"gold"},{"text":"\n"}]
 
