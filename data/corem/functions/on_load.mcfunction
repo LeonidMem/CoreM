@@ -12,7 +12,7 @@ scoreboard objectives add corem.functions dummy {"text":"CoreM.Functions","color
 scoreboard objectives add corem.events dummy {"text":"CoreM.Events","color":"red"}
 scoreboard objectives add corem.arguments dummy {"text":"CoreM.Arguments","color":"red"}
 
-scoreboard players set corem.version corem.version 20001
+scoreboard players set corem.version corem.version 20002
 scoreboard players set corem.check corem.version 0
 scoreboard players set 1 corem.version 1
 
@@ -48,7 +48,7 @@ function corem:mc_version/1.15
 function corem:mc_version/1.14
 function corem:mc_version/1.13
 
-tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (2.0.1)","color":"red"},{"text":".","color":"gold"}]
+tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (2.0.2)","color":"red"},{"text":".","color":"gold"}]
 
 execute if score corem.check corem.version >= 1 corem.version run tellraw @a ["",{"text":"At least:","color":"gold"},{"text":"\n"}]
 
