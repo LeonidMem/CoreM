@@ -1,1 +1,1 @@
-scoreboard players set event.player.teleport corem.functions 1
+scoreboard players set event.PLAYER_TELEPORT corem.functions 1

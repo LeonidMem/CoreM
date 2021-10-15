@@ -1,1 +1,1 @@
-scoreboard players set event.entity.death corem.functions 1
+scoreboard players set event.ENTITY_DEATH corem.functions 1

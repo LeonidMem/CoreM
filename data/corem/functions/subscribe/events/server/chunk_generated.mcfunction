@@ -1,1 +1,1 @@
-scoreboard players set event.server.chunkgenerated corem.functions 1
+scoreboard players set event.SERVER_CHUNK_GENERATED corem.functions 1

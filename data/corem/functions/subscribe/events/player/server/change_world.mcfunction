@@ -1,1 +1,1 @@
-scoreboard players set event.player.changeworld corem.functions 1
+scoreboard players set event.PLAYER_CHANGE_WORLD corem.functions 1

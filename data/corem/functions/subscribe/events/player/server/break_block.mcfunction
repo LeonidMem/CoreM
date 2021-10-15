@@ -1,1 +1,1 @@
-scoreboard players set event.player.breakblock corem.functions 1
+scoreboard players set event.PLAYER_BREAK_BLOCK corem.functions 1

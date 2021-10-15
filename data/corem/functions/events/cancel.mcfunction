@@ -1,0 +1,1 @@
+scoreboard players set isCancelled corem.events 1

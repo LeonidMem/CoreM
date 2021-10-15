@@ -1,1 +1,1 @@
-scoreboard players set event.entity.spawn corem.functions 1
+scoreboard players set event.ENTITY_SPAWN corem.functions 1
