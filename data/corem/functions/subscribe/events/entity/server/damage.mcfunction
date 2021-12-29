@@ -1,0 +1,1 @@
+scoreboard players set event.ENTITY_DAMAGE corem.functions 1
