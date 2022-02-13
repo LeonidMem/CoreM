@@ -1,0 +1,1 @@
+scoreboard players set event.PLAYER_INTERACT_AT_ENTITY corem.functions 1

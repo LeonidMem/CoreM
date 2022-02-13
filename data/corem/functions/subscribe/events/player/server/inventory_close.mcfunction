@@ -1,0 +1,1 @@
+scoreboard players set event.PLAYER_INVENTORY_CLOSE corem.functions 1
