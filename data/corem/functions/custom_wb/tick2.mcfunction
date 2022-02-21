@@ -1,7 +1,7 @@
 # Put glass pane back
-execute unless block ~ ~ ~ barrel{Items:[{Slot:0b,tag:{Tags:[corem.clear]}}]} run clear @a light_gray_stained_glass_pane{Tags:[corem.clear]}
-execute unless block ~ ~ ~ barrel{Items:[{Slot:0b,tag:{Tags:[corem.clear]}}]} run kill @e[type=item,nbt={Item:{id:"minecraft:light_gray_stained_glass_pane",tag:{Tags:[corem.clear]}}}]
-execute if block ~ ~ ~ barrel[open=true] unless block ~ ~ ~ barrel{Items:[{Slot:0b}]} run data modify block ~ ~ ~ Items append value {Slot:0b,id:"minecraft:light_gray_stained_glass_pane",Count:1b,tag:{Tags:[corem.clear],CustomModelData:324324,display:{Name:'{"text":""}'}}}
+#execute unless block ~ ~ ~ barrel{Items:[{Slot:0b,tag:{Tags:[corem.clear]}}]} run clear @a light_gray_stained_glass_pane{Tags:[corem.clear]}
+#execute unless block ~ ~ ~ barrel{Items:[{Slot:0b,tag:{Tags:[corem.clear]}}]} run kill @e[type=item,nbt={Item:{id:"minecraft:light_gray_stained_glass_pane",tag:{Tags:[corem.clear]}}}]
+#execute if block ~ ~ ~ barrel[open=true] unless block ~ ~ ~ barrel{Items:[{Slot:0b}]} run data modify block ~ ~ ~ Items append value {Slot:0b,id:"minecraft:light_gray_stained_glass_pane",Count:1b,tag:{Tags:[corem.clear],CustomModelData:324324,display:{Name:'{"text":""}'}}}
 
 # Put barrier back
 execute unless block ~ ~ ~ barrel{Items:[{Slot:15b,tag:{Tags:[corem.clear]}}]} run clear @a barrier{Tags:[corem.clear]}
@@ -10,7 +10,7 @@ execute unless block ~ ~ ~ barrel{Items:[{Slot:15b,tag:{Tags:[corem.clear]}}]} r
 # Return item from barrier
 execute unless data block ~ ~ ~ Items[{Slot:15b,tag:{Tags:[corem.clear]}}] if data block ~ ~ ~ Items[{Slot:15b}] positioned ~ ~1 ~ run function corem:custom_wb/anti_barrier
 
-# Set barrier back if there is an air in the slot 
+# Set barrier back if there is an air in the slot
 execute if block ~ ~ ~ barrel[open=true] unless block ~ ~ ~ barrel{Items:[{Slot:15b,tag:{Tags:[corem.clear]}}]} run data modify block ~ ~ ~ Items append value {Slot:15b,Count:1b,id:"minecraft:barrier",tag:{Tags:[corem.clear],display:{Name:'{"text":""}'}}}
 
 # Kill workbench
