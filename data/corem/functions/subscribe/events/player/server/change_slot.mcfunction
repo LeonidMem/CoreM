@@ -1,0 +1,1 @@
+scoreboard players set event.PLAYER_CHANGE_SLOT corem.functions 1
