@@ -43,7 +43,7 @@ function corem:mc_version/1.15
 function corem:mc_version/1.14
 function corem:mc_version/1.13
 
-tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (3.0.1)","color":"red"},{"text":".","color":"gold"}]
+tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (3.0.3)","color":"red"},{"text":".","color":"gold"}]
 
 execute if score corem.check corem.version >= 1 corem.version run tellraw @a ["",{"text":"At least:","color":"gold"},{"text":"\n"}]
 
