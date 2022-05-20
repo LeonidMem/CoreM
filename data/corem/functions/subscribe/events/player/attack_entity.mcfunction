@@ -1,0 +1,1 @@
+scoreboard players set event.PLAYER_ATTACK_ENTITY corem.functions 1

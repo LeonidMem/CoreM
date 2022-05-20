@@ -1,4 +1,3 @@
-Тест
 # Join [CoreM Discord server](https://discord.gg/pvdD3Kh6et), where you can ask a question or for help.
 
 ## !!! \[EN\] If you are going to create datapack which depends on CoreM, let me know, so I can add it in the list of datapacks based on CoreM.
