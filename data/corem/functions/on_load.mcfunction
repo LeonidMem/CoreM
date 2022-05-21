@@ -26,6 +26,7 @@ scoreboard players set 8 corem.const 8
 scoreboard players set 9 corem.const 9
 scoreboard players set 10 corem.const 10
 scoreboard players set 100 corem.const 100
+scoreboard players set 117 corem.const 117
 scoreboard players set 17568 corem.const 17568
 
 scoreboard players reset * corem.timer
