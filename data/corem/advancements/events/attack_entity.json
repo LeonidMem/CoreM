@@ -1,0 +1,12 @@
+{
+    "parent": "corem:root",
+    "criteria": {
+      "PlayerAttack": {
+        "trigger": "minecraft:player_hurt_entity"
+      }
+    },
+    "rewards": {
+      "function": "corem:events/player/attack_entity"
+    }
+  }
+  
