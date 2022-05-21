@@ -45,7 +45,7 @@ function corem:mc_version/1.17
 function corem:mc_version/1.16
 function corem:mc_version/1.15
 function corem:mc_version/1.14
-function corem:mc_version/1.13
+execute if score corem.mc.version corem.version matches 0 run scoreboard players set corem.mc.version corem.version 113
 
 tellraw @a ["",{"text":"One of your datapacks uses ","color":"gold"},{"text":"CoreM (3.0.4)","color":"red"},{"text":".","color":"gold"}]
 

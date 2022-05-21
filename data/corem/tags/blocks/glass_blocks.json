@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "minecraft:glass",
+        "minecraft:tinted_glass",
         "minecraft:red_stained_glass",
         "minecraft:blue_stained_glass",
         "minecraft:cyan_stained_glass",
