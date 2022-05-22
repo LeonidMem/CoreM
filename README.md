@@ -20,19 +20,36 @@
 - **Math functions**
 - **Raycast**
 - A lot of tags:
-	- **#corem:1.16/pickaxe** - **all blocks**, which **can be broken faster with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/axe** - **all blocks**, which **can be broken faster with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/shovel** - **all blocks**, which **can be broken faster with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.16/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
-	- **#corem:air** - all blocks of *air*
-	- **#corem:concrete** - all blocks of *concrete*
-	- **#corem:concrete_powder** - all blocks of *powder concrete*
-	- **#corem:dead_coral_blocks** - all blocks of *dead coral blocks*
-	- **#corem:dead_corals** - all blocks of *dead corals*
-	- **#corem:terracotta** - all blocks of *terracotta*
-	- **#corem:glazed_terracotta** - all blocks of *glazed terracotta*
-	- **#corem:shulker_boxes** - all blocks of *shulker boxes*
-	- **#corem:leaves** - all blocks of *leaves*
+	- **#corem:1.15/pickaxe** - **all blocks**, which **can be broken faster with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.15/axe** - **all blocks**, which **can be broken faster with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.15/shovel** - **all blocks**, which **can be broken faster with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
+	- **#corem:1.15/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
+	- **#corem:1.15/gravity_blocks** *(avaliable versions are 1.15 and 1.17)* - all *gravity* blocks
+	- **#corem:1.15/leaves** *(avaliable versions are 1.15, 1.17 and 1.19)* - all *leaves*
+	- **#corem:1.15/mushroom_blocks** *(avaliable versions are 1.15 and 1.16)* - all *mushroom_blocks*
+	- **#corem:1.15/mushrooms** *(avaliable versions are 1.15 and 1.16)* - all *mushrooms*
+	- **#corem:1.15/torches** *(avaliable versions are 1.15 and 1.16)* - all *torches*
+	- **#corem:1.16/obsidian** - all variations of *obsidian*
+	- **#corem:1.17/cauldrons** - all variations of *cauldrons*
+	- **#corem:1.17/amethyst_clusters** - all variations of *amethyst clusters*
+	- **#corem:air** - all *air* blocks
+	- **#corem:anvils** - all variations of *anvils*
+	- **#corem:command_blocks** - all *command* blocks
+	- **#corem:concrete** - all *concrete* blocks
+	- **#corem:concrete_powder** - all *powder concrete* blocks
+	- **#corem:crops** - all *crops*
+	- **#corem:dead_coral_blocks** - all *dead coral blocks*
+	- **#corem:dead_corals** - all *dead corals*
+	- **#corem:dirt** - all *dirt* blocks
+	- **#corem:glass_blocks** - all *glass* blocks
+	- **#corem:glass_panes** - all *glass* panes
+	- **#corem:glass** - all *glass* blocks and panes
+	- **#corem:terracotta** - all *terracotta* blocks
+	- **#corem:glazed_terracotta** - all *glazed terracotta* blocks
+	- **#corem:infested_blocks** - all *infested* blocks
+	- **#corem:shulker_boxes** - all *shulker boxes*
+	- **#corem:unbreakable** - all *unbreakable in survival mode* blocks
+	- **#corem:villager_job_blocks** - all *villagers' job* blocks
 
 Information
 ============
