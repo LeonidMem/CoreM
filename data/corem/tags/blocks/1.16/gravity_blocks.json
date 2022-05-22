@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:gravel",
+        "minecraft:scaffolding",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "#corem:concrete_powder",
+        "#corem:anvils"
+    ]
+}

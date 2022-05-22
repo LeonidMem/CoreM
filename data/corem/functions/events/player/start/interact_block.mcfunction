@@ -1,2 +1,2 @@
 function corem:raycast/start
-function #corem:events/player/interact_block
+execute as @s at @e[tag=corem.raycast.point] run function #corem:events/player/interact_block

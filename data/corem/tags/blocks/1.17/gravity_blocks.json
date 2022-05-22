@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:gravel",
+        "minecraft:scaffolding",
+        "minecraft:pointed_dripstone",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "#corem:concrete_powder",
+        "#corem:anvils"
+    ]
+}

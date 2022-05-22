@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:bedrock",
+        "minecraft:end_portal",
+        "minecraft:end_portal_frame",
+        "minecraft:end_gateway",
+        "minecraft:nether_portal",
+        "#corem:command_blocks",
+        "minecraft:barrier",
+        "minecraft:structure_block",
+        "minecraft:jigsaw"
+    ]
+}
