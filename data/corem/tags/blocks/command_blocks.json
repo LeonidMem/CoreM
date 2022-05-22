@@ -1,5 +1,4 @@
 {
-    "replace": false,
     "values": [
         "minecraft:command_block",
         "minecraft:chain_command_block",
