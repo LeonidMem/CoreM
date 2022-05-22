@@ -102,7 +102,6 @@ execute as @s[type=minecraft:wolf] run scoreboard players add wolf corem.count 1
 execute as @s[type=minecraft:zombie] run scoreboard players add zombie corem.count 1
 execute as @s[type=minecraft:zombie_horse] run scoreboard players add zombie_horse corem.count 1
 execute as @s[type=minecraft:zombie_villager] run scoreboard players add zombie_villager corem.count 1
-execute as @s[type=minecraft:zombie_horse] run scoreboard players add zombie_horse corem.count 1
 execute as @s[type=minecraft:zombified_piglin] run scoreboard players add zombified_piglin corem.count 1
 execute as @s[type=minecraft:zoglin] run scoreboard players add zoglin corem.count 1
 

@@ -96,9 +96,8 @@ execute as @s[type=minecraft:wither_skeleton] run scoreboard players add wither_
 execute as @s[type=minecraft:wither_skull] run scoreboard players add wither_skull corem.count 1
 execute as @s[type=minecraft:wolf] run scoreboard players add wolf corem.count 1
 execute as @s[type=minecraft:zombie] run scoreboard players add zombie corem.count 1
-execute as @s[type=minecraft:zombie_horse] run scoreboard players add zombie_horse corem.count 1
 execute as @s[type=minecraft:zombie_villager] run scoreboard players add zombie_villager corem.count 1
 execute as @s[type=minecraft:zombie_horse] run scoreboard players add zombie_horse corem.count 1
-execute as @s[type=minecraft:zombified_piglin] run scoreboard players add zombified_piglin corem.count 1
+execute as @s[type=minecraft:zombie_pigman] run scoreboard players add zombified_piglin corem.count 1
 
 execute as @s[type=!minecraft:player] run scoreboard players add total corem.count 1
