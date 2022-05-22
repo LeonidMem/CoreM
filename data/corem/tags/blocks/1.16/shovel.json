@@ -1,22 +1,22 @@
 {
-	"values": [
-		"#corem:concrete_powder",
-		
-		"minecraft:dirt",
-		"minecraft:coarse_dirt",
-		"minecraft:podzol",
-		"minecraft:grass_block",
-		"minecraft:mycelium",
-		"minecraft:farmland",
-		
-		"minecraft:sand",
-		"minecraft:red_sand",
-		"minecraft:gravel",
-		
-		"minecraft:soul_sand",
-		"minecraft:soul_soil",
-		
-		"minecraft:snow",
-		"minecraft:snow_block"
-	]
+    "values": [
+        "#corem:concrete_powder",
+        
+        "minecraft:dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:grass_block",
+        "minecraft:mycelium",
+        "minecraft:farmland",
+        
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "minecraft:gravel",
+        
+        "minecraft:soul_sand",
+        "minecraft:soul_soil",
+        
+        "minecraft:snow",
+        "minecraft:snow_block"
+    ]
 }
