@@ -23,7 +23,7 @@
 	- **#corem:1.15/pickaxe** - **all blocks**, which **can be broken faster with pickaxe** at 1.16 *(you can use any version from 1.15 to 1.16)*
 	- **#corem:1.15/axe** - **all blocks**, which **can be broken faster with axe** at 1.16 *(you can use any version from 1.15 to 1.16)*
 	- **#corem:1.15/shovel** - **all blocks**, which **can be broken faster with shovel** at 1.16 *(you can use any version from 1.15 to 1.16)*
-	- **#corem:1.15/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
+	- **#corem:1.16/hoe** - **all blocks**, which **can be broken faster with hoe** at 1.16 *(only 1.16)*
 	- **#corem:1.15/gravity_blocks** *(avaliable versions are 1.15 and 1.17)* - all *gravity* blocks
 	- **#corem:1.15/leaves** *(avaliable versions are 1.15, 1.17 and 1.19)* - all *leaves*
 	- **#corem:1.15/mushroom_blocks** *(avaliable versions are 1.15 and 1.16)* - all *mushroom_blocks*
